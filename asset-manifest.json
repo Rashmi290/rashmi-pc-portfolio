@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rashmi-pc-portfolio/static/css/main.e848872d.chunk.css",
-    "main.js": "/rashmi-pc-portfolio/static/js/main.8ef74503.chunk.js",
-    "main.js.map": "/rashmi-pc-portfolio/static/js/main.8ef74503.chunk.js.map",
+    "main.js": "/rashmi-pc-portfolio/static/js/main.2ececfed.chunk.js",
+    "main.js.map": "/rashmi-pc-portfolio/static/js/main.2ececfed.chunk.js.map",
     "runtime-main.js": "/rashmi-pc-portfolio/static/js/runtime-main.a74554e7.js",
     "runtime-main.js.map": "/rashmi-pc-portfolio/static/js/runtime-main.a74554e7.js.map",
     "static/js/2.b78ee894.chunk.js": "/rashmi-pc-portfolio/static/js/2.b78ee894.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.a74554e7.js",
     "static/js/2.b78ee894.chunk.js",
     "static/css/main.e848872d.chunk.css",
-    "static/js/main.8ef74503.chunk.js"
+    "static/js/main.2ececfed.chunk.js"
   ]
 }
